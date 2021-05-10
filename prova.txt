@@ -1,1 +1,2 @@
 Exemple de com col·laborar entre repositoris
+Afegeixo una segona línia
